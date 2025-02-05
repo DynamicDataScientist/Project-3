@@ -1,10 +1,8 @@
 # Project-3
 Data Analysis Healthcare Project by using MySql 
 # SQL - Data Analysis - Healthcare Dataset 
-![SQL](https://img.shields.io/badge/Language-%20SQL-yellow/Workbench)
-![SQL](https://img.shields.io/badge/Workbench-%20MySQL-green)
 
-This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
+This dataset is taken from Kaggle (https://github.com/DynamicDataScientist/Project-3/blob/main/healthcare_dataset.csv).
 
 The SQL queries conducted on the Healthcare database provided comprehensive insights into various facets of patient demographics, medical conditions, treatments, financial aspects, and hospital performances. These findings facilitate informed decision-making processes and offer valuable insights for healthcare management and analysis. 
 
